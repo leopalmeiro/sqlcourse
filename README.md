@@ -46,3 +46,8 @@ Edition](https://github.com/leopalmeiro/sqlcourse/blob/master/books/teach_urself
 [FreeCodeCamp](https://www.youtube.com/watch?v=HXV3zeQKqGY)
 
 [w3schools](https://www.w3schools.com/sql)
+
+# SQL challenges
+[hackerrank](https://www.hackerrank.com/domains/sql)
+
+[w3resource](https://www.w3resource.com/sql-exercises/)
