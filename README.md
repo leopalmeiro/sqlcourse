@@ -2,6 +2,7 @@
 Hey!!!
 
 Welcome to the SQL course in this course I will teach you everthing that you need to start as a Developer. 
+
 Let's coding!!!!!
 
 Thank you :)
