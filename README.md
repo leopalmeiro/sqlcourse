@@ -25,7 +25,7 @@ If you need some help, please contact me by email: <palmeiro.leonardo@gmail.com>
 ```
 * Insert
 ```
-  INSERT INTO <TABLE_NAME> (<COLUMN?NAME>) VALUES (<VALUES>)
+  INSERT INTO <TABLE_NAME> (<COLUMN_NAME>) VALUES (<VALUES>)
 ```
 
 # SQL Join
