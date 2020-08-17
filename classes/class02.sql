@@ -185,7 +185,6 @@ show databases;
 
 -- show tables
 show tables;
--- limit
 
 
 

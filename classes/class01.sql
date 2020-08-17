@@ -154,25 +154,3 @@ where upper(name) = upper('teo');
 update people 
 set age = age + 1, children = 4 
 where name = 'leonardo'; 
-
-
---home WORK
---tips study about database modeling
---PRIMARY key and FOREIGN key
---create a table user and profile
-USER
-id
-name
-profile
-Creation DATE
-update DATE
-
-profile
-ID
-DESCRIPTION
-
-
-Install mysql local or docker
-and acess by sql client
-
-estudar como criar tablelas com Primary key auto auto increment

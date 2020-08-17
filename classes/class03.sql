@@ -68,16 +68,12 @@ SELECT count(*) from daily_logs;
 SHOW FULL TABLES IN class02 
 WHERE table_type='VIEW';
 
-
-
 --SEQUENCE -- ROW BACK AND COMMIT
 CREATE SEQUENCE ON table_name [VALUE start STEP incr]-- in mysql works diferent in mysql has auto increment
 
 ALTER TABLE users AUTO_INCREMENT=100;
 INSERT into users (name, email, pass, dt_created, dt_updated, fk_profile) values('NEI', 'palmeiro.nei@gmail.com', md5('admin'), now(), now(), 1);
 select * from users u;
-
-
 
 --trigger
 CREATE TRIGGER lcase_insert 
